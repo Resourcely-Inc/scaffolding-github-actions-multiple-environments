@@ -1,7 +1,7 @@
-# Resourcely Github Actions Scaffolding
+# Resourcely Github Actions Multi-Environment Scaffolding
 
 This repository demonstrates how to integrate Resourcely into
-repository that used Github Actions as the Terraform runner.
+repository that used Github Actions with multi-environment as the Terraform runner.
 
 It contains a [workflow](.github/workflows/terraform.yml) that runs
 `terraform plan` and then uses the [Resourcely Github
